@@ -1,0 +1,3 @@
+# ICTD IMS Incoming Equipment Logs. Do not edit by hand.
+# Format: id|status|Date|Department/Office|End-user|Equipment Name|Equipment Model|Serial Number|Inclusions|Received by
+1|Done|2026-10-13|Sample Department|Samle End-user|Printer|EPSON L3210|NXWKFRHBVV001|Powercord|Adrian T. Millarez

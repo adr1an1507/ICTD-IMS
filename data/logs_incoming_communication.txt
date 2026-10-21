@@ -1,0 +1,2 @@
+# ICTD IMS Incoming Communication Logs. Do not edit by hand.
+# Format: id|status|Date|Department|Doc Code|Description|Received by

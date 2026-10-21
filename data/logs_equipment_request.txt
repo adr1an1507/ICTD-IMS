@@ -1,0 +1,2 @@
+# ICTD IMS Equipment Request Logs. Do not edit by hand.
+# Format: id|status|Date|Requested by|Department/Office|Equipment|Purpose

@@ -1,0 +1,6 @@
+# ICTD IMS accounts file. Do not edit by hand.
+# Format: fullName|username|role|salt|passwordHash
+Mariano D. Antenor Jr.|officehead|Office Head|gYwqUzU58LC4cPLkPFao2A==|TBUc3kTY9te/4pBqaAkV+g+zekI/+SBGDNhsVU3pQtg=
+Adrian T. Millarez|READS01|READS Scholar|YXgEP6NG5tJOgVBUsSGguA==|Re7IKPvn4d91dcC53VdFHcXYz1ze7M9Iu1y1Ghez2xc=
+Jane S. Alvarez|Secretary|Secretary|mm/aQBDZyYMKMT+l00cuqw==|Py/HXPojt0UfcTu+3FWUv4PrAtBW9EWRytzynHQwVB8=
+Nimrod E. Ferrer|technician2|Technician|BiVLUcoWiqbDLgZ1yFzpxw==|/EBrQQT3Oc0Hutrj462nR5yGBhDnvNKmMm1pIBpy1MI=

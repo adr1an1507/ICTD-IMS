@@ -1,0 +1,2 @@
+# ICTD IMS Outgoing Equipment Logs. Do not edit by hand.
+# Format: id|status|Date|Department/Office|End-user|Equipment Name|Equipment Model|Serial Number|Inclusions|Received by

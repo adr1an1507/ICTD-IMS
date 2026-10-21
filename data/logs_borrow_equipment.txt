@@ -1,0 +1,2 @@
+# ICTD IMS Borrow Equipment Logs. Do not edit by hand.
+# Format: id|status|Date Borrowed|Borrower|Department/Office|Equipment Name|Serial Number|Due Date|Released by
