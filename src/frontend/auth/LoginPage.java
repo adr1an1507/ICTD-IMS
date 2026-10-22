@@ -4,7 +4,7 @@
  * ============================================================================
  *  What this program does:
  *    Shows the login window of the ICTD Information Management System,
- *    built with Java Swing. After a correct login it opens the dashboard
+ *    built with Java Swing. After a successful login it opens the dashboard
  *    that matches the account:
  *      Administrator -> AdminDashboard
  *      Secretary     -> SecretaryDashboard
@@ -102,8 +102,7 @@ public class LoginPage extends JFrame {
     }
 
     // ==================================================================
-    // STEP 1: Create the components
-    // (They are only created here. They are placed in buildLayout.)
+    // Create the components
     // ==================================================================
     private void initializeComponents() {
         // "ICTD IMS" title
@@ -243,9 +242,8 @@ public class LoginPage extends JFrame {
     }
 
     // ==================================================================
-    // STEP 2: Place the components (layout)
-    // Order from outside to inside:
-    //   backgroundPanel -> cardPanel -> formPanel
+    // Place the components (layout)
+    // Order from outside to inside: backgroundPanel -> cardPanel -> formPanel
     // ==================================================================
     private void buildLayout() {
         // --- The white login card ---
@@ -327,7 +325,7 @@ public class LoginPage extends JFrame {
     }
 
     // ==================================================================
-    // STEP 3: Window settings
+    // Window settings
     // ==================================================================
     private void configureFrame() {
         setTitle("ICTD IMS - Login");                    // text in the title bar
@@ -338,7 +336,7 @@ public class LoginPage extends JFrame {
     }
 
     // ==================================================================
-    // STEP 4: Events (what happens when the user clicks or presses a key)
+    // Events (what happens when the user clicks or presses a key)
     // ==================================================================
     private void registerEvents() {
         // Click Login -> run handleLogin()
